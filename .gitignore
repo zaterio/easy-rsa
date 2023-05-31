@@ -1,5 +1,4 @@
 easyrsa3/pki
-easyrsa3/vars
 easyrsa3/safessl-easyrsa.cnf
 easyrsa3/unit?tests
 easyrsa-unit-tests.sh
